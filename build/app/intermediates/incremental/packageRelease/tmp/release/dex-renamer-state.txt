@@ -1,0 +1,4 @@
+#Thu Mar 16 22:42:59 CET 2023
+base.0=/Users/hassenmabrouki/Desktop/flutterCourse/expense/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
